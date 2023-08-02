@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-env] 13.0/server_environment/i18n/server_environment.pot\n"
 "X-Crowdin-File-ID: 5362\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-08-06 21:59\n"
+"PO-Revision-Date: 2023-08-02 09:34\n"
 
 #. module: server_environment
 #: model:ir.model.fields,field_description:server_environment.field_server_config__config
@@ -24,19 +24,19 @@ msgstr ""
 #. module: server_environment
 #: model:ir.model.fields,field_description:server_environment.field_server_config__create_uid
 msgid "Created by"
-msgstr "Créé par"
+msgstr ""
 
 #. module: server_environment
 #: model:ir.model.fields,field_description:server_environment.field_server_config__create_date
 msgid "Created on"
-msgstr "Créé le"
+msgstr ""
 
 #. module: server_environment
 #: model:ir.model.fields,field_description:server_environment.field_server_config__display_name
 #: model:ir.model.fields,field_description:server_environment.field_server_env_mixin__display_name
 #: model:ir.model.fields,field_description:server_environment.field_server_env_techname_mixin__display_name
 msgid "Display Name"
-msgstr "Nom d'affichage"
+msgstr ""
 
 #. module: server_environment
 #: model:ir.model,name:server_environment.model_server_config
@@ -55,17 +55,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:server_environment.field_server_env_mixin____last_update
 #: model:ir.model.fields,field_description:server_environment.field_server_env_techname_mixin____last_update
 msgid "Last Modified on"
-msgstr "Dernière modification le"
+msgstr ""
 
 #. module: server_environment
 #: model:ir.model.fields,field_description:server_environment.field_server_config__write_uid
 msgid "Last Updated by"
-msgstr "Dernière mise à jour par"
+msgstr ""
 
 #. module: server_environment
 #: model:ir.model.fields,field_description:server_environment.field_server_config__write_date
 msgid "Last Updated on"
-msgstr "Dernière mise à jour le"
+msgstr ""
 
 #. module: server_environment
 #: model:ir.model,name:server_environment.model_server_env_mixin
