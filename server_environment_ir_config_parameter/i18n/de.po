@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-File: /[AmetrasIntelligence.server-env] 13.0/server_environment_ir_config_parameter/i18n/server_environment_ir_config_parameter.pot\n"
 "X-Crowdin-File-ID: 5364\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-08-06 21:59\n"
+"PO-Revision-Date: 2023-08-14 13:53\n"
 
 #. module: server_environment_ir_config_parameter
 #: code:addons/server_environment_ir_config_parameter/models/ir_config_parameter.py:0
@@ -25,5 +25,5 @@ msgstr ""
 #. module: server_environment_ir_config_parameter
 #: model:ir.model,name:server_environment_ir_config_parameter.model_ir_config_parameter
 msgid "System Parameter"
-msgstr ""
+msgstr "Systemparameter"
 
